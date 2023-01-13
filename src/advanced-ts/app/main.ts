@@ -24,6 +24,7 @@ findProduct({
   stock: 10,
   color: 'red',
   createdAt: new Date(),
+  tags: []
 })
 
 console.log(products);
